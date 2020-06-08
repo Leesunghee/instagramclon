@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "724222773720",
+    "firebase_url": "https://gentle-presence-142306.firebaseio.com",
+    "project_id": "gentle-presence-142306",
+    "storage_bucket": "gentle-presence-142306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724222773720:android:d68b8cc505654dd54bcaad",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724222773720-le6smumhqq8n59ig85llflo173punv4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagram_clon",
+            "certificate_hash": "47dc3ae120e9ae2c2914913ea105549db07a1a90"
+          }
+        },
+        {
+          "client_id": "724222773720-u63b6lp23mehr4kbt6gbd03pkfbtoggk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagram_clon",
+            "certificate_hash": "78c14e66f5a5679970cecd396c601ad7b57dcd2f"
+          }
+        },
+        {
+          "client_id": "724222773720-d2uadn6mqsp8nld9sk6i0ehar0q8hjtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1tszCIl7jOSy0SpOUcfrgz-iv0G4ETNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724222773720-d2uadn6mqsp8nld9sk6i0ehar0q8hjtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "724222773720-p5f2mm2t2j44rlljctu1gk2dg5o1hcmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ready2die.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724222773720:android:88f479ccd3355a264bcaad",
+        "android_client_info": {
+          "package_name": "com.example.instagramclon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724222773720-d2uadn6mqsp8nld9sk6i0ehar0q8hjtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1tszCIl7jOSy0SpOUcfrgz-iv0G4ETNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724222773720-d2uadn6mqsp8nld9sk6i0ehar0q8hjtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "724222773720-p5f2mm2t2j44rlljctu1gk2dg5o1hcmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ready2die.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
